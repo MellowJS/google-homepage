@@ -75,7 +75,9 @@ li a:hover {
 
 #search form input[type='text'] {
     border: none;
+    outline: none;
 }
 #search form input[type='text']:hover {
     border: none;
+    outline: none;
 }
